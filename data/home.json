@@ -1,0 +1,38 @@
+{
+  "header" : {
+    "logo" : "Sayla Logo"
+  },
+  "landingPage" : {
+    "title" : "Hi, Iam Sayla",
+    "text" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!",
+    "image" : "",
+    "buttonText" : "More About Me",
+    "buttonType" : "scroll",
+    "buttonDestination" : ""
+  },
+  "skills" : {
+    "image" : "https://dummyimage.com/100x200",
+    "text" :"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!"
+  },
+  "works" : {
+    "text" : "this is Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!",
+    "allWorks" : [
+      {
+        "img" : ""
+      }
+    ],
+    "highlight" : [
+      "https://dummyimage.com/1080x2000",
+      "https://dummyimage.com/1080x2000",
+      "https://dummyimage.com/1080x2000",
+      "https://dummyimage.com/1080x2000",
+      "https://dummyimage.com/1080x2000",
+      "https://dummyimage.com/1080x2000",
+      "https://dummyimage.com/1080x2000",
+      "https://dummyimage.com/1080x2000"
+    ]
+  },
+  "aboutMe" : "this is Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!",
+  "Education" : "are you Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!",
+  "Achivments" : "so Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!"
+}
