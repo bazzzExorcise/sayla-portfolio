@@ -18,7 +18,16 @@
     "text" : "this is Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!",
     "allWorks" : [
       {
-        "img" : ""
+        "img" : "contoh1.png",
+        "title" : "This is the first example",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam tellus.",
+        "category" : "ui design"
+      },
+      {
+        "img" : "contoh2.png",
+        "title" : "This is the second example",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam tellus.",
+        "category" : "ui design"
       }
     ],
     "highlight" : [
