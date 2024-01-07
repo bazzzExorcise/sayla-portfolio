@@ -1,6 +1,6 @@
 {
   "header" : {
-    "logo" : "Portfolio"
+    "logo" : "This is my project"
   },
   "landingPage" : {
     "title" : "Hi, Iam Sayla",
@@ -28,6 +28,12 @@
         "title" : "This is the second example",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam tellus.",
         "category" : "ui design"
+      },
+      {
+        "img" : "contoh3.png",
+        "title" : "This is the third example",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam tellus.",
+        "category" : "poster"
       }
     ],
     "highlight" : [
@@ -43,5 +49,6 @@
   },
   "aboutMe" : "this is Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!",
   "Education" : "are you Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!",
-  "Achivments" : "so Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!"
+  "Achivments" : "so Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut obcaecati. Dolores Lorem ipsum dolor sit amet consectetur adipisicing elit. In quisquam dignissimos soluta iste. reprehenderit nostrum rerum dolore temporibus, a consequuntur tenetur!",
+  "Category" : ["3d", "ui design", "poster", "logo design"]
 }
